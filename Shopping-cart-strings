@@ -1,1 +1,6 @@
+list = "Orange"
+list += ", Banana"
+list += ", Grapes"
+list += ", Tangerines"
 
+print(list)
